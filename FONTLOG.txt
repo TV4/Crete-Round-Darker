@@ -1,0 +1,46 @@
+FONTLOG for the Crete Round Darker fonts
+
+This file provides detailed information on the Crete Round Darker Font Software.
+This information should be distributed along with the Crete Round Darker fonts
+and any derivative works.
+
+Basic Font Information
+
+Crete Round Darker is a Unicode typeface family that supports all languages that
+use the Latin script and its variants, and could be expanded to support other
+scripts.
+
+To contribute to the project please fork the Github repository at https://github.com/TV4/Crete-Round-Darker and push your own changes.
+
+ChangeLog
+
+10 July 2013 (David Hall, TV4 Group) Crete Round Darker version 1.0.0
+- A mechanically made bolder version of the font. Aimed at being more legible when used for captioning and subtitling.
+- Aring and aring modified to have a slightly larger ring.
+
+2011? (TypeTogether) Crete Round
+-  It started as a tailored version of the original Crete fonts, created specially to serve as corporate typeface for the type design competition Letter2.
+- Made available under the SIL Open Source License at Google Webfonts.
+
+1 July 2007 (Veronika Burian, TypeTogether) Crete Font Family
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Veronika Burian
+E: http://www.type-together.com/index.php?action=portal/viewContent&cntId_content=2668&id_section=138#frm_contacto
+W: http://www.type-together.com/info
+D: Designer - original font
+
+N: David Hall
+E: david.hall@tv4.se
+W: http://http.tv4.se/
+D: Contributor bolder weight (Darker)
+
+TypeTogether (type-together.com) was created in 2006 by type designers 
+Veronika Burian and José Scaglione. 
+
+The TV4 Group (http://www.tv4gruppen.se/) is Sweden's largest commercial tv company and has delivered engaging news, grand entertainment of great variety and quality, live sport and top-class drama to Swedish viewers for more than two decades. 
